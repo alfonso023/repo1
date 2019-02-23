@@ -148,3 +148,8 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
+.idea
+*.log
+*.iml
+target
+test
