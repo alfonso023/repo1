@@ -16,7 +16,7 @@
 <context:component-scan base-package="cn.itheima">
     <context:include-filter type="annotation" expression="org.springframework.stereotype.Controller"></context:include-filter>
 </context:component-scan>
-    
+    <!--操蛋!!!!!!!!!!!!!!!!!!!!-->
     <!---->
     <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/WEB-INF/pages/"></property>
